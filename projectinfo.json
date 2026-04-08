@@ -30,7 +30,7 @@
 			"BBX011003/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hall_2023-08-08_Taes_paragon/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Hall_2023-08-08_Taes_paragon",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Hall_2023-08-08_Taes_paragon",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -54,7 +54,7 @@
 			"BB/X018725/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Howell_2024_05_17_Tetraploid_sequencing/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Howell_2024_05_17_Tetraploid_sequencing",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Howell_2024_05_17_Tetraploid_sequencing",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -90,7 +90,7 @@
 			"BBX011003/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hall_2023-08-08_Taes_paragon_v2/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Hall_2023-08-08_Taes_paragon_v2",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Hall_2023-08-08_Taes_paragon_v2",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -143,7 +143,7 @@
 			"BBX011089/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hall_2024-01-01_wheat_pantranscriptome/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Hall_2024-01-01_wheat_pantranscriptome",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Hall_2024-01-01_wheat_pantranscriptome",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -266,7 +266,7 @@
 			"2018-000009-01EXTF-00306"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/WatSeq_2023-09-15_landrace_modern_Variation_Data/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/WatSeq_2023-09-15_landrace_modern_Variation_Data",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/WatSeq_2023-09-15_landrace_modern_Variation_Data",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -294,7 +294,7 @@
 			"BB/J004596/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hall_2022-11-22_wheat_wild_relatives/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Hall_2022-11-22_wheat_wild_relatives",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Hall_2022-11-22_wheat_wild_relatives",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -319,7 +319,7 @@
 			"CDFW2E12A"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Uauy_2022-09-24_IBSpy_Triticum_monococcum_introgressions/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Uauy_2022-09-24_IBSpy_Triticum_monococcum_introgressions",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Uauy_2022-09-24_IBSpy_Triticum_monococcum_introgressions",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -340,7 +340,7 @@
 			"GG403G01A"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Thanki_2022_wheat_lncRNAs/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Thanki_2022_wheat_lncRNAs",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Thanki_2022_wheat_lncRNAs",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -377,7 +377,7 @@
 			"BB/M011216/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hall_2022-04-08_HiBAP_genotyping/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Hall_2022-04-08_HiBAP_genotyping",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Hall_2022-04-08_HiBAP_genotyping",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -412,7 +412,7 @@
 			"BB/CCG1720/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/King_2022-04-08_Triticumtimopheevii/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/King_2022-04-08_Triticumtimopheevii",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/King_2022-04-08_Triticumtimopheevii",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -440,7 +440,7 @@
 			"BB/M011216/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Millan-Blanquez_etal_2022_machine-learning-carpel-traits/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Millan-Blanquez_etal_2022_machine-learning-carpel-traits",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Millan-Blanquez_etal_2022_machine-learning-carpel-traits",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -463,7 +463,7 @@
 			"BB/P016855/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Gardiner_2018-07-04_Wheat-gene-promoter-capture/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Gardiner_2018-07-04_Wheat-gene-promoter-capture",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Gardiner_2018-07-04_Wheat-gene-promoter-capture",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -484,7 +484,7 @@
 			"BBS/E/T/000PR9785"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Zhou_2019_RobxCla_UAV_Image_Data/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Zhou_2019_RobxCla_UAV_Image_Data",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Zhou_2019_RobxCla_UAV_Image_Data",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -512,7 +512,7 @@
 			"BB/J007188/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Martin_etal_2018_Alabdullah_etal_2019_wheat_meiosis_transcriptome_and_co-expression_network/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Martin_etal_2018_Alabdullah_etal_2019_wheat_meiosis_transcriptome_and_co-expression_network",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Martin_etal_2018_Alabdullah_etal_2019_wheat_meiosis_transcriptome_and_co-expression_network",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -533,7 +533,7 @@
 			"BB/P016855/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Wulff_2018-01-31_OWWC/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Wulff_2018-01-31_OWWC",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Wulff_2018-01-31_OWWC",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -555,7 +555,7 @@
 			"BB/P016855/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Ramirez-Gonzalez_etal_2018-06025-Transcriptome-Landscape/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Ramirez-Gonzalez_etal_2018-06025-Transcriptome-Landscape",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Ramirez-Gonzalez_etal_2018-06025-Transcriptome-Landscape",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -578,7 +578,7 @@
 			"BB/P016855/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Gardiner_2018-01-29_Watkins-diversity-12Mb/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Gardiner_2018-01-29_Watkins-diversity-12Mb",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Gardiner_2018-01-29_Watkins-diversity-12Mb",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -603,7 +603,7 @@
 			"BB/P016855/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Griffiths_2018-10-22_DFW-TK-NIL-Set2-2018-phenotypes/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Griffiths_2018-10-22_DFW-TK-NIL-Set2-2018-phenotypes",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Griffiths_2018-10-22_DFW-TK-NIL-Set2-2018-phenotypes",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -624,7 +624,7 @@
 			"BB/P016855/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Riche_2020-07-13_DFW_Academic_Toolkit_Harvest_2020/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Riche_2020-07-13_DFW_Academic_Toolkit_Harvest_2020",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Riche_2020-07-13_DFW_Academic_Toolkit_Harvest_2020",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -645,7 +645,7 @@
 			"BB/P016855/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Gardiner_et_al_2017_Watkins_exome_capture_SNP_calls_VCF/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Gardiner_et_al_2017_Watkins_exome_capture_SNP_calls_VCF",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Gardiner_et_al_2017_Watkins_exome_capture_SNP_calls_VCF",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -665,7 +665,7 @@
 			"BB/P016855/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/2021-15-21_wheat_pantranscriptome/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/2021-15-21_wheat_pantranscriptome",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/2021-15-21_wheat_pantranscriptome",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -686,7 +686,7 @@
 			"BB/J003557/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Clavijo_2017-04-25_Wheat-LoLa/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Clavijo_2017-04-25_Wheat-LoLa",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Clavijo_2017-04-25_Wheat-LoLa",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -706,7 +706,7 @@
 			"BB/P016855/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Wulff_2019-03-13_OWWC_lineage1/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Wulff_2019-03-13_OWWC_lineage1",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Wulff_2019-03-13_OWWC_lineage1",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -726,7 +726,7 @@
 			"BB/P016855/1"
 		],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Brinton_etal_2020-05-20-Haplotypes-for-wheat-breeding/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Brinton_etal_2020-05-20-Haplotypes-for-wheat-breeding",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Brinton_etal_2020-05-20-Haplotypes-for-wheat-breeding",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -755,7 +755,7 @@
 		},
 		"project_codes": [],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Grewal_et_al_2021-09-13_Amybylopyrum_muticum/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Grewal_et_al_2021-09-13_Amybylopyrum_muticum",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Grewal_et_al_2021-09-13_Amybylopyrum_muticum",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -782,7 +782,7 @@
 		},
 		"project_codes": [],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hall_2021-10-08_wheatxmuticum/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Hall_2021-10-08_wheatxmuticum",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Hall_2021-10-08_wheatxmuticum",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -807,7 +807,7 @@
 		},
 		"project_codes": [],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Hazard_2022_02_09_ssIIIa_TILLING_phenotype_data/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Hazard_2022_02_09_ssIIIa_TILLING_phenotype_data/",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Hazard_2022_02_09_ssIIIa_TILLING_phenotype_data/",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -828,7 +828,7 @@
 		},
 		"project_codes": [],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Horsnell,Leigh,Bentley,Wright_2020_NIAB_CSSL_D_genome_yield_trial_H2020/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Horsnell,Leigh,Bentley,Wright_2020_NIAB_CSSL_D_genome_yield_trial_H2020",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Horsnell,Leigh,Bentley,Wright_2020_NIAB_CSSL_D_genome_yield_trial_H2020",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"
@@ -849,7 +849,7 @@
 		},
 		"project_codes": [],
 		"so:url": "https://opendata.earlham.ac.uk/wheat/under_license/toronto/Horsnell,Leigh,Bentley,Wright_2020_NIAB_CSSL_D_glasshouse_trial_H2020/",
-		"irods_path": "/grassrootsZone/home/public/under_license/toronto/Horsnell,Leigh,Bentley,Wright_2020_NIAB_CSSL_D_glasshouse_trial_H2020",
+		"irods_path": "/GrassrootsZone/home/public/under_license/toronto/Horsnell,Leigh,Bentley,Wright_2020_NIAB_CSSL_D_glasshouse_trial_H2020",
 		"@type": "Grassroots:Project",
 		"type_description": "Dataset",
 		"so:image": "https://grassroots.tools/grassroots/images/aiss/drawer"

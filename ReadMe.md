@@ -27,6 +27,7 @@ options:
   -i INPUT_FILE, --input_file INPUT_FILE
                         The input Projects JSON file to load
   -H HOST, --host HOST  The iRODS server hostname
+  -e ENV_FILE, --env_file env_file  The iRODS environment json file to get the host, user, zone and port from if you would prefer to set the arguments that way
   -P PORT, --port PORT  The port that the iRODS server is running on
   -u USER, --user USER  The username to use to log in to the iRODS server
   -p PASSWORD, --password PASSWORD
